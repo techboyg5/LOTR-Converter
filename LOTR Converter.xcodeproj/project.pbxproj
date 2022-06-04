@@ -89,6 +89,8 @@
 		B526629827CBD4C00014C225 = {
 			isa = PBXGroup;
 			children = (
+				B5C14CBC284C0FE400C6003B /* README.md */,
+				B5C14CBD284C128700C6003B /* LICENSE.md */,
 				B52662A327CBD4C00014C225 /* LOTR Converter */,
 				B52662B427CBD4C10014C225 /* LOTR ConverterTests */,
 				B52662BE27CBD4C10014C225 /* LOTR ConverterUITests */,
@@ -120,8 +122,6 @@
 				B526FB3B27D0FEB500019041 /* ExchangeRate.swift */,
 				B52662A827CBD4C10014C225 /* Assets.xcassets */,
 				B52662AA27CBD4C10014C225 /* Preview Content */,
-				B5C14CBC284C0FE400C6003B /* README.md */,
-				B5C14CBD284C128700C6003B /* LICENSE.md */,
 			);
 			path = "LOTR Converter";
 			sourceTree = "<group>";
